@@ -13,7 +13,9 @@ Sigue la misma estructura que la carpeta "Redes sociales" de Drive.
 | `updates-y-relatos/pedir-resenas/` | "Pedir reseñas también es escuchar": novedad de Google y post de LinkedIn |
 | `posts/` | Carruseles y posts de redes, una carpeta por tema |
 | `posts/web-funciona/` | "Tu web no necesita ser cara. Necesita funcionar.": carrusel Instagram (`ig_`, 1080×1440) y TikTok (`tt_`, 1080×1080); copias en `jpg/` |
-| `elementos-visuales/` | Elementos 3D sueltos con fondo transparente (celular, pin, reseña, búsqueda, insignia, tarjetas de reseña, wifi y redes, trío de tarjetas, notebook, celular con web de clínica, botón Agendar hora, reloj de pared) |
+| `posts/negocios-maps-piloto/` | "¿Apareces cuando te buscan?" para negocios (Despegue Maps y Maps al Día, precio piloto hasta el 31-10-2026): carrusel Instagram (`ig_`, 1080×1440) y TikTok (`tt_`, 1080×1080); copias en `jpg/` |
+| `posts/salud-maps-piloto/` | "¿Apareces cuando te buscan?" para consultas (Maps Salud y Maps Salud Pro, precio piloto hasta el 31-10-2026): mismos formatos |
+| `elementos-visuales/` | Elementos 3D sueltos con fondo transparente (celular, pin, reseña, búsqueda, insignia, tarjetas de reseña, wifi y redes, trío de tarjetas, notebook, celular con web de clínica, botón Agendar hora, reloj de pared, barras de búsqueda «cafetería cerca de mí» y «dentista cerca de mí») |
 | `elementos-visuales/hojas-de-referencia/` | Hojas con todos los elementos a la vista |
 | `elementos-visuales/marca/logos/` | Símbolo de Vlue y logos con dominio y con Instagram, en cuatro colores |
 | `elementos-visuales/marca/contacto/` | Bloques y franjas de contacto (WhatsApp, Instagram, web) |
