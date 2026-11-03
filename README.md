@@ -11,6 +11,7 @@ Sigue la misma estructura que la carpeta "Redes sociales" de Drive.
 | `catalogo-imgs/trio-vlue/` | Trío de Tarjetas Vlue: mismos formatos que la Tarjeta Vlue |
 | `updates-y-relatos/` | Novedades de Google (1200×900) y posts tipo relato o consejo para LinkedIn (1080×1350), una carpeta por tema; copias en `jpg/` |
 | `updates-y-relatos/pedir-resenas/` | "Pedir reseñas también es escuchar": novedad de Google y post de LinkedIn |
+| `updates-y-relatos/tarjeta-nfc-resenas/` | Artículo "Tarjeta NFC para reseñas de Google: cómo funciona": novedad de Google (1200×900), post de LinkedIn (1080×1350) e historia de Instagram (1080×1920) |
 | `posts/` | Carruseles y posts de redes, una carpeta por tema |
 | `posts/web-funciona/` | "Tu web no necesita ser cara. Necesita funcionar.": carrusel Instagram (`ig_`, 1080×1440) y TikTok (`tt_`, 1080×1080); copias en `jpg/` |
 | `posts/negocios-maps-piloto/` | "¿Apareces cuando te buscan?" para negocios (Despegue Maps y Maps al Día, precio piloto hasta el 31-10-2026): carrusel Instagram (`ig_`, 1080×1440) y TikTok (`tt_`, 1080×1080); copias en `jpg/` |
